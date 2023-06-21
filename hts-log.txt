@@ -1,0 +1,37 @@
+HTTrack3.49-2 launched on Tue, 13 Jun 2023 13:50:32 at https://validthemes.live/themeforest/examin/index.html none none
+(winhttrack https://validthemes.live/themeforest/examin/index.html -O "/Users/macbook/websites/vc-school-template" -P none:8080 -%v none none )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:53:14	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link none/robots.txt (from primary/primary)
+13:53:14	Warning: 	Retry after error -5 (Unable to get server's address: nodename nor servname provided, or not known) at link none/ (from primary/primary)
+13:55:34	Warning: 	Retry after error -4 (No data (connection closed)) at link https://validthemes.live/themeforest/examin/profile.html (from https://validthemes.live/themeforest/examin/index.html)
+13:55:34	Warning: 	Retry after error -4 (No data (connection closed)) at link https://validthemes.live/themeforest/examin/edit-profile.html (from https://validthemes.live/themeforest/examin/index.html)
+13:56:21	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link none/ (from primary/primary)
+13:56:21	Error: 	"Not Found" (404) at link https://validthemes.live/themeforest/examin/assets/fonts/glyphicons-halflings-regular.eot (from https://validthemes.live/themeforest/examin/assets/css/bootstrap.min.css)
+13:56:21	Error: 	"Not Found" (404) at link https://validthemes.live/themeforest/examin/assets/fonts/glyphicons-halflings-regular.eot? (from https://validthemes.live/themeforest/examin/assets/css/bootstrap.min.css)
+13:56:21	Error: 	"Not Found" (404) at link https://validthemes.live/themeforest/examin/assets/fonts/glyphicons-halflings-regular.woff2 (from https://validthemes.live/themeforest/examin/assets/css/bootstrap.min.css)
+13:56:21	Error: 	"Not Found" (404) at link https://validthemes.live/themeforest/examin/assets/fonts/glyphicons-halflings-regular.woff (from https://validthemes.live/themeforest/examin/assets/css/bootstrap.min.css)
+13:56:21	Error: 	"Not Found" (404) at link https://validthemes.live/themeforest/examin/assets/fonts/glyphicons-halflings-regular.ttf (from https://validthemes.live/themeforest/examin/assets/css/bootstrap.min.css)
+13:56:21	Error: 	"Not Found" (404) at link https://validthemes.live/themeforest/examin/assets/fonts/glyphicons-halflings-regular.svg (from https://validthemes.live/themeforest/examin/assets/css/bootstrap.min.css)
+13:56:21	Error: 	"Not Found" (404) at link https://validthemes.live/themeforest/examin/assets/fonts/fa-brands-400.svg (from https://validthemes.live/themeforest/examin/assets/css/font-awesome.min.css)
+13:56:21	Error: 	"Not Found" (404) at link https://validthemes.live/themeforest/examin/assets/fonts/fa-regular-400.svg (from https://validthemes.live/themeforest/examin/assets/css/font-awesome.min.css)
+13:56:21	Error: 	"Not Found" (404) at link https://validthemes.live/themeforest/examin/assets/fonts/fa-solid-900.svg (from https://validthemes.live/themeforest/examin/assets/css/font-awesome.min.css)
+13:56:21	Error: 	"Not Found" (404) at link https://validthemes.live/themeforest/examin/assets/fonts/Flaticon.eot (from https://validthemes.live/themeforest/examin/assets/css/flaticon-set.css)
+13:56:21	Error: 	"Not Found" (404) at link https://validthemes.live/themeforest/examin/assets/fonts/Flaticon.eot? (from https://validthemes.live/themeforest/examin/assets/css/flaticon-set.css)
+13:56:21	Error: 	"Not Found" (404) at link https://validthemes.live/themeforest/examin/assets/css/Flaticon.svg (from https://validthemes.live/themeforest/examin/assets/css/flaticon-set.css)
+13:56:21	Error: 	"Not Found" (404) at link https://validthemes.live/themeforest/examin/assets/css/ElegantIcons.svg (from https://validthemes.live/themeforest/examin/assets/css/elegant-icons.css)
+13:56:21	Error: 	"Not Found" (404) at link https://validthemes.live/themeforest/examin/assets/css/owl.video.play.png (from https://validthemes.live/themeforest/examin/assets/css/owl.carousel.min.css)
+13:56:21	Warning: 	Retry after error -4 (Incorrect length (147344 Bytes, 228325 expected)) at link https://validthemes.live/themeforest/examin/assets/img/banner/6.jpg (from https://validthemes.live/themeforest/examin/index-2.html)
+13:56:27	Warning: 	Retry after error -4 (Incorrect length (16050 Bytes, 78208 expected)) at link https://validthemes.live/themeforest/examin/assets/img/courses/6.jpg (from https://validthemes.live/themeforest/examin/index-2.html)
+13:56:28	Warning: 	Retry after error -4 (Incorrect length (98256 Bytes, 564553 expected)) at link https://validthemes.live/themeforest/examin/assets/img/thumb.png (from https://validthemes.live/themeforest/examin/index-7.html)
+13:56:29	Warning: 	Retry after error -4 (Incorrect length (36864 Bytes, 451843 expected)) at link https://validthemes.live/themeforest/examin/assets/img/illustration/2.png (from https://validthemes.live/themeforest/examin/index-7.html)
+13:56:33	Warning: 	Retry after error -4 (Incorrect length (32768 Bytes, 50112 expected)) at link https://validthemes.live/themeforest/examin/assets/img/about/3.jpg (from https://validthemes.live/themeforest/examin/index-8.html)
+13:56:34	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 57600 expected)) at link https://validthemes.live/themeforest/examin/assets/img/about/2.jpg (from https://validthemes.live/themeforest/examin/index-8.html)
+13:56:37	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link none/ (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 20 seconds : 230 links scanned, 203 files written (14378759 bytes overall) [11233257 bytes received at 29561 bytes/sec], 3955089 bytes transferred using HTTP compression in 78 files, ratio 18%, 3.4 requests per connection
+(16 errors, 10 warnings, 0 messages)
